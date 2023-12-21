@@ -25,12 +25,12 @@ cd tropess-notes-python
 source configure.sh
 ```
 
-Start Jupyter Lab
+Start Jupyter Lab:
 
 ```bash
 jupyter lab
 ```
 
-From here pick any of the Notebooks and try to run them. Before running the code, make sure you download the TROPESS files to `./data` as documented. 
+From here pick any of the notebooks (`*.ipynb`) and try to run it. Before running the code, make sure you have downloaded the TROPESS sample data  to `./data` as documented in the examples. 
 
  
