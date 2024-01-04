@@ -1,8 +1,8 @@
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/swiftsoftwaregroup/tropess-notes-python) 
+
 # tropess-notes-python
 
 Jupyter Notebooks for TROPESS Notes (in Python)
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/swiftsoftwaregroup/tropess-notes-python) 
 
 ## Setup
 
