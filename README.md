@@ -8,7 +8,7 @@ Jupyter Notebooks for TROPESS Notes (in Python)
 
 For initial setup see:
 
-https://swiftsoftwaregroup.github.io/tropess-notes/setup-macos/
+https://tropess-notes.swiftearthscience.org/setup-macos/
 
 ## How to run stuff
 
