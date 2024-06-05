@@ -36,6 +36,10 @@ jupyter lab
 
 From here pick any of the notebooks (`*.ipynb`) and try to run it. Before running the code, make sure you have downloaded the TROPESS sample data  to `./data` as documented in the examples. 
 
+## Community Contributions
+
+[Discussion Forum](https://github.com/orgs/swift-earth-science/discussions): Please use the forum for questions, discussing ideas, and joining the community.
+
 ---
 
 ## Copyright and Licensing Info
