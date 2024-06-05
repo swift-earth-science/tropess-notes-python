@@ -40,8 +40,6 @@ From here pick any of the notebooks (`*.ipynb`) and try to run it. Before runnin
 
 [Discussion Forum](https://github.com/orgs/swift-earth-science/discussions): Please use the forum for questions, discussing ideas, and joining the community.
 
----
-
 ## Copyright and Licensing Info
 
 Copyright (c) 2023-2024 Swift Software Group, Inc. ("SSG"). All rights reserved.
